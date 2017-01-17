@@ -1,0 +1,2 @@
+# chtab
+Alternative TabStaff algorithm
